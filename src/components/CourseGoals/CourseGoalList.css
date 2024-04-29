@@ -1,0 +1,12 @@
+
+
+li{
+    display: flex; /* Use flexbox for alignment */
+    justify-content: center; /* Center child elements horizontally */
+    align-items: center; 
+    background-color: pink;
+    color: black;
+    width: 40%;
+    margin: 2px;
+    margin-left: 30%;
+}

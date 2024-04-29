@@ -1,0 +1,22 @@
+
+.container {
+    display: flex; /* Use flexbox for alignment */
+    justify-content: center; /* Center child elements horizontally */
+    align-items: center; /* Center child elements vertically */
+    height: 100vh; /* Full viewport height for vertical centering */
+  }
+  
+  /* Child Element Style */
+  .goal-list {
+      align-items: center;
+    display: block;
+    margin-left: 30%;
+    margin-top: 30px;
+    background-color: gray;
+    border: 2px solid black;
+    height: auto;
+    text-align: center; /* Text alignment within the element */
+    width: 40%; /* Take half the width of the parent container */
+    padding: 10px; /* Padding for spacing within the element */
+  }
+  
