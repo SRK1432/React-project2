@@ -36,7 +36,7 @@ const CourseInput = () => {
     }
   };
   const cancelHandler=(index)=>{
-    setGoal(goal.filter((_, i) => i !== index))git Infinity
+    setGoal(goal.filter((_, i) => i !== index));
   }
 
   return (
